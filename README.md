@@ -12,4 +12,5 @@ Cursando "Git e GitHub: repositório, commit e versões" oferecido pela Alura.
 - Adicionando um colaborador
 - Instalando o Git
 - Git clone e log
+- Git status, commit e push
 ```
