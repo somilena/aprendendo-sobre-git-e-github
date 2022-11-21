@@ -11,4 +11,5 @@ Cursando "Git e GitHub: repositório, commit e versões" oferecido pela Alura.
 - Atalho ponto (.) vai para VSCode no GitHub
 - Adicionando um colaborador
 - Instalando o Git
+- Git clone e log
 ```
