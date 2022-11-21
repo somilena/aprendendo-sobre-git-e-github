@@ -14,5 +14,5 @@ Cursando "Git e GitHub: repositório, commit e versões" oferecido pela Alura.
 - Git clone e log
 - Git status, commit e push
 - Git restore (voltando uma versão atrás dos arquivos no git pro github)
-- Adicionando arquivos
+- Adicionando arquivos (git add)
 ```
