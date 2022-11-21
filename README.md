@@ -7,6 +7,7 @@ Cursando "Git e GitHub: repositório, commit e versões" oferecido pela Alura.
 
 ```
 - commit
-- vscode
-- atalho ponto (.) vai para VSCode no GitHub
+- VSCode
+- Atalho ponto (.) vai para VSCode no GitHub
+- Adicionando um colaborador
 ```
