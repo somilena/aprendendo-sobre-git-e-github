@@ -1,6 +1,6 @@
 # Aprendendo sobre o Git e Github com a Alura
 
-> Status: aprendizado concluído
+> Status: aprendizado concluído 💻
 
 Curso "Git e GitHub: repositório, commit e versões" oferecido pela Alura.
 
