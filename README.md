@@ -1,8 +1,8 @@
 # Aprendendo sobre o Git e Github com a Alura
 
-> Status: aprendendo
+> Status: aprendizado concluído
 
-Cursando "Git e GitHub: repositório, commit e versões" oferecido pela Alura.
+Curso "Git e GitHub: repositório, commit e versões" oferecido pela Alura.
 
 
 ```
